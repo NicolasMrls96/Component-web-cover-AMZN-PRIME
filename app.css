@@ -1,0 +1,18 @@
+body{
+    background-image: url(/img/BC\ Amazon.jpg);
+    background-repeat: no-repeat;
+    background-color: #f7f7f7;
+    display: 0;
+    font-family: sans-serif;
+    color: #f7f7f7
+}
+header{
+    margin: 0;
+    background-color: #1b252f;
+    display: flex;
+    justify-content: space-between;
+}
+.header_logo{
+    margin: 20px 50px;
+    width: 100px;
+}
